@@ -22,6 +22,9 @@ To Dos
 ------
 
 Update Tweet
+
 Delete Tweet
+
 Upgrade to Django 1.4
+
 Remove mustache templating. Use default from Underscore.
