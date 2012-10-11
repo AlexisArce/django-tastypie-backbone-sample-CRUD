@@ -11,8 +11,17 @@ Running locally
 
 Preferably in a virtualenv, run the following commands:
 
-    git clone git@github.com:dannyroa/django-tastypie-backbone-CRUD.git
-    cd django-tastypie-backbone-CRUD/backbone_example
+    git clone git@github.com:dannyroa/django-tastypie-backbone-sample-CRUD.git
+    cd django-tastypie-backbone-sample-CRUD/backbone_example
     pip install -r requirements.txt
     ./manage.py syncdb --noinput
     ./manage.py runserver
+
+
+To Dos
+------
+
+Update Tweet
+Delete Tweet
+Upgrade to Django 1.4
+Remove mustache templating. Use default from Underscore.
